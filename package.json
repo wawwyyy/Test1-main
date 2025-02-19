@@ -1,0 +1,12 @@
+{
+  "name": "Test1",
+  "version": "0.0.0",
+  "description": "Project for Test in Class",
+  "main": "index.js",
+  "repository": "https://github.com/astafiev-rustam/Test1",
+  "author": "astafiev_rustam <astafev@mirea.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
